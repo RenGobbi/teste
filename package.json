@@ -1,0 +1,15 @@
+{
+  "name": "lixo20",
+  "version": "1.0.0",
+  "description": "Primeiro teste",
+  "main": "index.js",
+  "scripts": {
+    "start": "node teste.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "re",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
